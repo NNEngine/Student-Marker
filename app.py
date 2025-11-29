@@ -7,7 +7,7 @@ st.set_page_config(
   page_icon = "😎"
 )
 
-st.title("Students Marks Prediction")
+st.title("😎Students Marks Prediction")
 st.write("It is a simple students marks prediction Machine learning Model which is trained in LinearRegression")
 st.markdown("---")
 
